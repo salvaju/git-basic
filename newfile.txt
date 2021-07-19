@@ -1,3 +1,10 @@
 Hi I am a new file.
 
 I Edited this file.
+
+
+
+1. Add - Add in Git adds the files or modified files onto the staged area.
+2. Commit - Commit is the one that adds all the staged file and put it as one commit. Commit is served as like a historical data.
+3. Push - Push is the one that puts your commit from your local repository onto the remote repository like GitHub.
+
